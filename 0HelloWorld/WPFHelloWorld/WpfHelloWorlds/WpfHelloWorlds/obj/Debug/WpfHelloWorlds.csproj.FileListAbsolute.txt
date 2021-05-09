@@ -1,0 +1,15 @@
+C:\Users\sebas\Documents\GameDevelopment\WPF\0HelloWorld\WPFHelloWorld\WpfHelloWorlds\WpfHelloWorlds\bin\Debug\WpfHelloWorlds.exe.config
+C:\Users\sebas\Documents\GameDevelopment\WPF\0HelloWorld\WPFHelloWorld\WpfHelloWorlds\WpfHelloWorlds\bin\Debug\WpfHelloWorlds.exe
+C:\Users\sebas\Documents\GameDevelopment\WPF\0HelloWorld\WPFHelloWorld\WpfHelloWorlds\WpfHelloWorlds\bin\Debug\WpfHelloWorlds.pdb
+C:\Users\sebas\Documents\GameDevelopment\WPF\0HelloWorld\WPFHelloWorld\WpfHelloWorlds\WpfHelloWorlds\obj\Debug\WpfHelloWorlds.csprojAssemblyReference.cache
+C:\Users\sebas\Documents\GameDevelopment\WPF\0HelloWorld\WPFHelloWorld\WpfHelloWorlds\WpfHelloWorlds\obj\Debug\MainWindow.g.cs
+C:\Users\sebas\Documents\GameDevelopment\WPF\0HelloWorld\WPFHelloWorld\WpfHelloWorlds\WpfHelloWorlds\obj\Debug\App.g.cs
+C:\Users\sebas\Documents\GameDevelopment\WPF\0HelloWorld\WPFHelloWorld\WpfHelloWorlds\WpfHelloWorlds\obj\Debug\WpfHelloWorlds_MarkupCompile.cache
+C:\Users\sebas\Documents\GameDevelopment\WPF\0HelloWorld\WPFHelloWorld\WpfHelloWorlds\WpfHelloWorlds\obj\Debug\WpfHelloWorlds_MarkupCompile.lref
+C:\Users\sebas\Documents\GameDevelopment\WPF\0HelloWorld\WPFHelloWorld\WpfHelloWorlds\WpfHelloWorlds\obj\Debug\MainWindow.baml
+C:\Users\sebas\Documents\GameDevelopment\WPF\0HelloWorld\WPFHelloWorld\WpfHelloWorlds\WpfHelloWorlds\obj\Debug\WpfHelloWorlds.g.resources
+C:\Users\sebas\Documents\GameDevelopment\WPF\0HelloWorld\WPFHelloWorld\WpfHelloWorlds\WpfHelloWorlds\obj\Debug\WpfHelloWorlds.Properties.Resources.resources
+C:\Users\sebas\Documents\GameDevelopment\WPF\0HelloWorld\WPFHelloWorld\WpfHelloWorlds\WpfHelloWorlds\obj\Debug\WpfHelloWorlds.csproj.GenerateResource.cache
+C:\Users\sebas\Documents\GameDevelopment\WPF\0HelloWorld\WPFHelloWorld\WpfHelloWorlds\WpfHelloWorlds\obj\Debug\WpfHelloWorlds.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Documents\GameDevelopment\WPF\0HelloWorld\WPFHelloWorld\WpfHelloWorlds\WpfHelloWorlds\obj\Debug\WpfHelloWorlds.exe
+C:\Users\sebas\Documents\GameDevelopment\WPF\0HelloWorld\WPFHelloWorld\WpfHelloWorlds\WpfHelloWorlds\obj\Debug\WpfHelloWorlds.pdb
