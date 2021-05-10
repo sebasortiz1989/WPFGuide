@@ -1,0 +1,15 @@
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1Controls\8ImageControl\ImageControlDemo\bin\Debug\ImageControlDemo.exe.config
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1Controls\8ImageControl\ImageControlDemo\bin\Debug\ImageControlDemo.exe
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1Controls\8ImageControl\ImageControlDemo\bin\Debug\ImageControlDemo.pdb
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1Controls\8ImageControl\ImageControlDemo\obj\Debug\ImageControlDemo.csprojAssemblyReference.cache
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1Controls\8ImageControl\ImageControlDemo\obj\Debug\MainWindow.g.cs
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1Controls\8ImageControl\ImageControlDemo\obj\Debug\App.g.cs
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1Controls\8ImageControl\ImageControlDemo\obj\Debug\ImageControlDemo_MarkupCompile.cache
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1Controls\8ImageControl\ImageControlDemo\obj\Debug\ImageControlDemo_MarkupCompile.lref
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1Controls\8ImageControl\ImageControlDemo\obj\Debug\MainWindow.baml
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1Controls\8ImageControl\ImageControlDemo\obj\Debug\ImageControlDemo.g.resources
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1Controls\8ImageControl\ImageControlDemo\obj\Debug\ImageControlDemo.Properties.Resources.resources
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1Controls\8ImageControl\ImageControlDemo\obj\Debug\ImageControlDemo.csproj.GenerateResource.cache
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1Controls\8ImageControl\ImageControlDemo\obj\Debug\ImageControlDemo.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1Controls\8ImageControl\ImageControlDemo\obj\Debug\ImageControlDemo.exe
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1Controls\8ImageControl\ImageControlDemo\obj\Debug\ImageControlDemo.pdb
