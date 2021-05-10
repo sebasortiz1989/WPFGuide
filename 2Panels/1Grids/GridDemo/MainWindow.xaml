@@ -10,18 +10,19 @@
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="1*"/>
             <ColumnDefinition Width="1*"/>
-            <ColumnDefinition Width="1*"></ColumnDefinition>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="1*"/>
         </Grid.ColumnDefinitions>
         <Grid.RowDefinitions>
             <RowDefinition Height="1*"/>
             <RowDefinition Height="1*"/>
             <RowDefinition Height="1*"/>
         </Grid.RowDefinitions>
-        <Button Grid.Row="0" Grid.Column="0">Button00</Button>
+        <Button Grid.Row="0" Grid.Column="0" Grid.RowSpan="2" Background="Aquamarine">Button00</Button>
         <Button Grid.Row="0" Grid.Column="1">Button01</Button>
-        <Button Grid.Row="0" Grid.Column="2">Button02</Button>
-        <Button Grid.Row="1" Grid.Column="0">Button10</Button>
         <Button Grid.Row="1" Grid.Column="1">Button11</Button>
-        <Button Grid.Row="1" Grid.Column="2">Button12</Button>
+        <Button Grid.Row="0" Grid.Column="2" Grid.ColumnSpan="2" Grid.RowSpan="2" Background="BurlyWood">Button12</Button>
+        <Button Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="3" Background="Beige">Button21</Button>
+        <Button Grid.Row="2" Grid.Column="3">Button23</Button>
     </Grid>
 </Window>
