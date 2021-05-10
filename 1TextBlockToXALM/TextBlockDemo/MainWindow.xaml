@@ -7,11 +7,14 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="350" Width="250  ">
     <StackPanel>
-        <TextBlock>Hello <Bold>World!</Bold> And Hello <Italic>you</Italic>
+        
+        <TextBlock x:Name="myTextBlock">Hello <Bold>World!</Bold> And Hello <Italic>you</Italic>
         <LineBreak/>
             Go To <Hyperlink RequestNavigate="Hyperlink_RequestNavigate"  NavigateUri="https://www.google.com">google.com</Hyperlink>
         </TextBlock>
+        
         <TextBlock></TextBlock>
+        
         <TextBlock TextWrapping="Wrap" Foreground ="Red">
             Lorem ipsum <Span Foreground="Black">dolor sit amet</Span>, consectetur adipiscing elit. 
             Proin non gravida nulla, a rutrum quam. Phasellus ullamcorper 
@@ -23,5 +26,6 @@
             Vestibulum non lacus ut lacus aliquet egestas vitae at justo. Nulla ac porta 
             metus, nec fringilla erat.   
         </TextBlock>
+        
     </StackPanel>
 </Window>
