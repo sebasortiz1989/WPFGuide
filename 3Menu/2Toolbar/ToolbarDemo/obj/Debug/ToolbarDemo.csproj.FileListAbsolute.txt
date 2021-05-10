@@ -1,0 +1,15 @@
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\3Menu\2Toolbar\ToolbarDemo\bin\Debug\ToolbarDemo.exe.config
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\3Menu\2Toolbar\ToolbarDemo\bin\Debug\ToolbarDemo.exe
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\3Menu\2Toolbar\ToolbarDemo\bin\Debug\ToolbarDemo.pdb
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\3Menu\2Toolbar\ToolbarDemo\obj\Debug\ToolbarDemo.csprojAssemblyReference.cache
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\3Menu\2Toolbar\ToolbarDemo\obj\Debug\MainWindow.g.cs
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\3Menu\2Toolbar\ToolbarDemo\obj\Debug\App.g.cs
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\3Menu\2Toolbar\ToolbarDemo\obj\Debug\ToolbarDemo_MarkupCompile.cache
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\3Menu\2Toolbar\ToolbarDemo\obj\Debug\ToolbarDemo_MarkupCompile.lref
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\3Menu\2Toolbar\ToolbarDemo\obj\Debug\MainWindow.baml
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\3Menu\2Toolbar\ToolbarDemo\obj\Debug\ToolbarDemo.g.resources
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\3Menu\2Toolbar\ToolbarDemo\obj\Debug\ToolbarDemo.Properties.Resources.resources
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\3Menu\2Toolbar\ToolbarDemo\obj\Debug\ToolbarDemo.csproj.GenerateResource.cache
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\3Menu\2Toolbar\ToolbarDemo\obj\Debug\ToolbarDemo.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\3Menu\2Toolbar\ToolbarDemo\obj\Debug\ToolbarDemo.exe
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\3Menu\2Toolbar\ToolbarDemo\obj\Debug\ToolbarDemo.pdb
