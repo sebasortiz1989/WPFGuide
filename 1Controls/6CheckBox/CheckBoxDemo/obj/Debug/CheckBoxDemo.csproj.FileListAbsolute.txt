@@ -1,0 +1,15 @@
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1Controls\6CheckBox\CheckBoxDemo\bin\Debug\CheckBoxDemo.exe.config
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1Controls\6CheckBox\CheckBoxDemo\bin\Debug\CheckBoxDemo.exe
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1Controls\6CheckBox\CheckBoxDemo\bin\Debug\CheckBoxDemo.pdb
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1Controls\6CheckBox\CheckBoxDemo\obj\Debug\CheckBoxDemo.csprojAssemblyReference.cache
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1Controls\6CheckBox\CheckBoxDemo\obj\Debug\MainWindow.g.cs
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1Controls\6CheckBox\CheckBoxDemo\obj\Debug\App.g.cs
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1Controls\6CheckBox\CheckBoxDemo\obj\Debug\CheckBoxDemo_MarkupCompile.cache
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1Controls\6CheckBox\CheckBoxDemo\obj\Debug\CheckBoxDemo_MarkupCompile.lref
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1Controls\6CheckBox\CheckBoxDemo\obj\Debug\MainWindow.baml
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1Controls\6CheckBox\CheckBoxDemo\obj\Debug\CheckBoxDemo.g.resources
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1Controls\6CheckBox\CheckBoxDemo\obj\Debug\CheckBoxDemo.Properties.Resources.resources
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1Controls\6CheckBox\CheckBoxDemo\obj\Debug\CheckBoxDemo.csproj.GenerateResource.cache
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1Controls\6CheckBox\CheckBoxDemo\obj\Debug\CheckBoxDemo.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1Controls\6CheckBox\CheckBoxDemo\obj\Debug\CheckBoxDemo.exe
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1Controls\6CheckBox\CheckBoxDemo\obj\Debug\CheckBoxDemo.pdb
