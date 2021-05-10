@@ -1,0 +1,15 @@
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\2Labels\LabelDemo\bin\Debug\LabelDemo.exe.config
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\2Labels\LabelDemo\bin\Debug\LabelDemo.exe
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\2Labels\LabelDemo\bin\Debug\LabelDemo.pdb
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\2Labels\LabelDemo\obj\Debug\LabelDemo.csprojAssemblyReference.cache
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\2Labels\LabelDemo\obj\Debug\MainWindow.g.cs
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\2Labels\LabelDemo\obj\Debug\App.g.cs
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\2Labels\LabelDemo\obj\Debug\LabelDemo_MarkupCompile.cache
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\2Labels\LabelDemo\obj\Debug\LabelDemo_MarkupCompile.lref
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\2Labels\LabelDemo\obj\Debug\MainWindow.baml
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\2Labels\LabelDemo\obj\Debug\LabelDemo.g.resources
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\2Labels\LabelDemo\obj\Debug\LabelDemo.Properties.Resources.resources
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\2Labels\LabelDemo\obj\Debug\LabelDemo.csproj.GenerateResource.cache
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\2Labels\LabelDemo\obj\Debug\LabelDemo.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\2Labels\LabelDemo\obj\Debug\LabelDemo.exe
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\2Labels\LabelDemo\obj\Debug\LabelDemo.pdb
