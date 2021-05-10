@@ -1,0 +1,15 @@
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\2Panels\6CatYearsProject\CatYearsProject\bin\Debug\CatYearsProject.exe.config
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\2Panels\6CatYearsProject\CatYearsProject\bin\Debug\CatYearsProject.exe
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\2Panels\6CatYearsProject\CatYearsProject\bin\Debug\CatYearsProject.pdb
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\2Panels\6CatYearsProject\CatYearsProject\obj\Debug\CatYearsProject.csprojAssemblyReference.cache
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\2Panels\6CatYearsProject\CatYearsProject\obj\Debug\MainWindow.g.cs
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\2Panels\6CatYearsProject\CatYearsProject\obj\Debug\App.g.cs
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\2Panels\6CatYearsProject\CatYearsProject\obj\Debug\CatYearsProject_MarkupCompile.cache
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\2Panels\6CatYearsProject\CatYearsProject\obj\Debug\CatYearsProject_MarkupCompile.lref
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\2Panels\6CatYearsProject\CatYearsProject\obj\Debug\MainWindow.baml
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\2Panels\6CatYearsProject\CatYearsProject\obj\Debug\CatYearsProject.g.resources
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\2Panels\6CatYearsProject\CatYearsProject\obj\Debug\CatYearsProject.Properties.Resources.resources
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\2Panels\6CatYearsProject\CatYearsProject\obj\Debug\CatYearsProject.csproj.GenerateResource.cache
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\2Panels\6CatYearsProject\CatYearsProject\obj\Debug\CatYearsProject.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\2Panels\6CatYearsProject\CatYearsProject\obj\Debug\CatYearsProject.exe
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\2Panels\6CatYearsProject\CatYearsProject\obj\Debug\CatYearsProject.pdb
