@@ -21,6 +21,7 @@
                 KeyDown="ResultTextBlock_KeyDown"
             ></TextBox>
         </StackPanel>
+        <Button MouseDown="Button_MouseDown"></Button>
         <TextBlock
             Name="ResultTextBlock"
             Text="Your dog is"

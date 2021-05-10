@@ -1,0 +1,15 @@
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\3Menu\1MenuControl\MenuControlDemo\bin\Debug\MenuControlDemo.exe.config
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\3Menu\1MenuControl\MenuControlDemo\bin\Debug\MenuControlDemo.exe
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\3Menu\1MenuControl\MenuControlDemo\bin\Debug\MenuControlDemo.pdb
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\3Menu\1MenuControl\MenuControlDemo\obj\Debug\MenuControlDemo.csprojAssemblyReference.cache
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\3Menu\1MenuControl\MenuControlDemo\obj\Debug\MainWindow.g.cs
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\3Menu\1MenuControl\MenuControlDemo\obj\Debug\App.g.cs
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\3Menu\1MenuControl\MenuControlDemo\obj\Debug\MenuControlDemo_MarkupCompile.cache
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\3Menu\1MenuControl\MenuControlDemo\obj\Debug\MenuControlDemo_MarkupCompile.lref
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\3Menu\1MenuControl\MenuControlDemo\obj\Debug\MainWindow.baml
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\3Menu\1MenuControl\MenuControlDemo\obj\Debug\MenuControlDemo.g.resources
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\3Menu\1MenuControl\MenuControlDemo\obj\Debug\MenuControlDemo.Properties.Resources.resources
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\3Menu\1MenuControl\MenuControlDemo\obj\Debug\MenuControlDemo.csproj.GenerateResource.cache
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\3Menu\1MenuControl\MenuControlDemo\obj\Debug\MenuControlDemo.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\3Menu\1MenuControl\MenuControlDemo\obj\Debug\MenuControlDemo.exe
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\3Menu\1MenuControl\MenuControlDemo\obj\Debug\MenuControlDemo.pdb
