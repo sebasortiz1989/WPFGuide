@@ -1,0 +1,15 @@
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1TextBlockToXALM\TextBlockDemo\bin\Debug\TextBlockDemo.exe.config
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1TextBlockToXALM\TextBlockDemo\bin\Debug\TextBlockDemo.exe
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1TextBlockToXALM\TextBlockDemo\bin\Debug\TextBlockDemo.pdb
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1TextBlockToXALM\TextBlockDemo\obj\Debug\TextBlockDemo.csprojAssemblyReference.cache
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1TextBlockToXALM\TextBlockDemo\obj\Debug\MainWindow.g.cs
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1TextBlockToXALM\TextBlockDemo\obj\Debug\App.g.cs
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1TextBlockToXALM\TextBlockDemo\obj\Debug\TextBlockDemo_MarkupCompile.cache
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1TextBlockToXALM\TextBlockDemo\obj\Debug\TextBlockDemo_MarkupCompile.lref
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1TextBlockToXALM\TextBlockDemo\obj\Debug\MainWindow.baml
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1TextBlockToXALM\TextBlockDemo\obj\Debug\TextBlockDemo.g.resources
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1TextBlockToXALM\TextBlockDemo\obj\Debug\TextBlockDemo.Properties.Resources.resources
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1TextBlockToXALM\TextBlockDemo\obj\Debug\TextBlockDemo.csproj.GenerateResource.cache
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1TextBlockToXALM\TextBlockDemo\obj\Debug\TextBlockDemo.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1TextBlockToXALM\TextBlockDemo\obj\Debug\TextBlockDemo.exe
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1TextBlockToXALM\TextBlockDemo\obj\Debug\TextBlockDemo.pdb

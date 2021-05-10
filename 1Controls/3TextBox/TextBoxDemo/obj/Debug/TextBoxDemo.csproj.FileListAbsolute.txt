@@ -1,0 +1,15 @@
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1Controls\3TextBox\TextBoxDemo\bin\Debug\TextBoxDemo.exe.config
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1Controls\3TextBox\TextBoxDemo\bin\Debug\TextBoxDemo.exe
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1Controls\3TextBox\TextBoxDemo\bin\Debug\TextBoxDemo.pdb
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1Controls\3TextBox\TextBoxDemo\obj\Debug\TextBoxDemo.csprojAssemblyReference.cache
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1Controls\3TextBox\TextBoxDemo\obj\Debug\MainWindow.g.cs
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1Controls\3TextBox\TextBoxDemo\obj\Debug\App.g.cs
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1Controls\3TextBox\TextBoxDemo\obj\Debug\TextBoxDemo_MarkupCompile.cache
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1Controls\3TextBox\TextBoxDemo\obj\Debug\TextBoxDemo_MarkupCompile.lref
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1Controls\3TextBox\TextBoxDemo\obj\Debug\MainWindow.baml
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1Controls\3TextBox\TextBoxDemo\obj\Debug\TextBoxDemo.g.resources
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1Controls\3TextBox\TextBoxDemo\obj\Debug\TextBoxDemo.Properties.Resources.resources
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1Controls\3TextBox\TextBoxDemo\obj\Debug\TextBoxDemo.csproj.GenerateResource.cache
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1Controls\3TextBox\TextBoxDemo\obj\Debug\TextBoxDemo.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1Controls\3TextBox\TextBoxDemo\obj\Debug\TextBoxDemo.exe
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1Controls\3TextBox\TextBoxDemo\obj\Debug\TextBoxDemo.pdb

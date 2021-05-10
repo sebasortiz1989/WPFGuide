@@ -1,0 +1,22 @@
+﻿<Window x:Class="CheckBoxDemo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CheckBoxDemo"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="200" Width="200">
+    <StackPanel>
+        <Label FontWeight="Bold">Topings</Label>
+        <CheckBox x:Name="cbParent" IsThreeState="True" Checked="cbParent_Checked_change" Unchecked="cbParent_Checked_change" Content="Select all"></CheckBox>
+
+        <CheckBox Margin="15,5" x:Name="cbCheese" VerticalContentAlignment="Center" Checked="cbTopingChanged" Unchecked="cbTopingChanged"> 
+            <WrapPanel>
+                <Label x:Name="lbCheese">ExtraCheese</Label>
+            </WrapPanel> 
+        </CheckBox>
+        <CheckBox x:Name="cbPepperoni" Margin="15,5" Checked="cbTopingChanged" Unchecked="cbTopingChanged">Pepperoni</CheckBox>
+        <CheckBox x:Name="cbJam" Margin="15,5" Checked="cbTopingChanged" Unchecked="cbTopingChanged">Jam</CheckBox>
+        <CheckBox x:Name="cbPineapple" Margin="15,5" Checked="cbTopingChanged" Unchecked="cbTopingChanged">Pineapple</CheckBox>
+    </StackPanel>
+</Window>

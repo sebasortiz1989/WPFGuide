@@ -1,0 +1,15 @@
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1Controls\4Buttons\ButtonDemo\bin\Debug\ButtonDemo.exe.config
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1Controls\4Buttons\ButtonDemo\bin\Debug\ButtonDemo.exe
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1Controls\4Buttons\ButtonDemo\bin\Debug\ButtonDemo.pdb
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1Controls\4Buttons\ButtonDemo\obj\Debug\ButtonDemo.csprojAssemblyReference.cache
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1Controls\4Buttons\ButtonDemo\obj\Debug\MainWindow.g.cs
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1Controls\4Buttons\ButtonDemo\obj\Debug\App.g.cs
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1Controls\4Buttons\ButtonDemo\obj\Debug\ButtonDemo_MarkupCompile.cache
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1Controls\4Buttons\ButtonDemo\obj\Debug\ButtonDemo_MarkupCompile.lref
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1Controls\4Buttons\ButtonDemo\obj\Debug\MainWindow.baml
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1Controls\4Buttons\ButtonDemo\obj\Debug\ButtonDemo.g.resources
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1Controls\4Buttons\ButtonDemo\obj\Debug\ButtonDemo.Properties.Resources.resources
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1Controls\4Buttons\ButtonDemo\obj\Debug\ButtonDemo.csproj.GenerateResource.cache
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1Controls\4Buttons\ButtonDemo\obj\Debug\ButtonDemo.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1Controls\4Buttons\ButtonDemo\obj\Debug\ButtonDemo.exe
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1Controls\4Buttons\ButtonDemo\obj\Debug\ButtonDemo.pdb

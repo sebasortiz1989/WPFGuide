@@ -1,0 +1,34 @@
+﻿<Window x:Class="RadioButtonDemo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RadioButtonDemo"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <StackPanel>
+        <Label
+        Content="Who do you love"
+        FontWeight="Bold"            
+        ></Label>
+        <RadioButton x:Name="rbMom" GroupName="People" FontSize="30" VerticalContentAlignment="Center" Checked="rbMom_Checked" Unchecked="rbMom_Unchecked">
+            <WrapPanel>
+                <TextBlock VerticalAlignment="Center" Name="momText">My mom</TextBlock>
+                <Image Height="100" Source="https://previews.123rf.com/images/djvstock/djvstock1807/djvstock180719805/114964492-cartoon-mom-icon-over-white-background-vector-illustration.jpg"></Image>
+            </WrapPanel>
+        </RadioButton>
+        <RadioButton GroupName="People">My dad</RadioButton>
+        <RadioButton GroupName="People">My dog</RadioButton>
+        <RadioButton GroupName="People">My girl</RadioButton>
+        
+        <Label
+        Content="How much"
+        FontWeight="Bold"            
+        ></Label>
+        <RadioButton GroupName="Quantity">A lot</RadioButton>
+        <RadioButton GroupName="Quantity">all right</RadioButton>
+        <RadioButton GroupName="Quantity">so so</RadioButton>
+        <RadioButton GroupName="Quantity">not at all</RadioButton>
+        
+    </StackPanel>
+</Window>

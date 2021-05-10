@@ -1,0 +1,15 @@
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1Controls\5RadioButtons\RadioButtonDemo\bin\Debug\RadioButtonDemo.exe.config
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1Controls\5RadioButtons\RadioButtonDemo\bin\Debug\RadioButtonDemo.exe
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1Controls\5RadioButtons\RadioButtonDemo\bin\Debug\RadioButtonDemo.pdb
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1Controls\5RadioButtons\RadioButtonDemo\obj\Debug\RadioButtonDemo.csprojAssemblyReference.cache
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1Controls\5RadioButtons\RadioButtonDemo\obj\Debug\MainWindow.g.cs
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1Controls\5RadioButtons\RadioButtonDemo\obj\Debug\App.g.cs
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1Controls\5RadioButtons\RadioButtonDemo\obj\Debug\RadioButtonDemo_MarkupCompile.cache
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1Controls\5RadioButtons\RadioButtonDemo\obj\Debug\RadioButtonDemo_MarkupCompile.lref
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1Controls\5RadioButtons\RadioButtonDemo\obj\Debug\MainWindow.baml
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1Controls\5RadioButtons\RadioButtonDemo\obj\Debug\RadioButtonDemo.g.resources
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1Controls\5RadioButtons\RadioButtonDemo\obj\Debug\RadioButtonDemo.Properties.Resources.resources
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1Controls\5RadioButtons\RadioButtonDemo\obj\Debug\RadioButtonDemo.csproj.GenerateResource.cache
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1Controls\5RadioButtons\RadioButtonDemo\obj\Debug\RadioButtonDemo.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1Controls\5RadioButtons\RadioButtonDemo\obj\Debug\RadioButtonDemo.exe
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1Controls\5RadioButtons\RadioButtonDemo\obj\Debug\RadioButtonDemo.pdb

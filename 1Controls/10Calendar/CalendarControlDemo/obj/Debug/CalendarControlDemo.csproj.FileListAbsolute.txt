@@ -1,0 +1,15 @@
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1Controls\10Calendar\CalendarControlDemo\bin\Debug\CalendarControlDemo.exe.config
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1Controls\10Calendar\CalendarControlDemo\bin\Debug\CalendarControlDemo.exe
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1Controls\10Calendar\CalendarControlDemo\bin\Debug\CalendarControlDemo.pdb
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1Controls\10Calendar\CalendarControlDemo\obj\Debug\CalendarControlDemo.csprojAssemblyReference.cache
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1Controls\10Calendar\CalendarControlDemo\obj\Debug\MainWindow.g.cs
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1Controls\10Calendar\CalendarControlDemo\obj\Debug\App.g.cs
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1Controls\10Calendar\CalendarControlDemo\obj\Debug\CalendarControlDemo_MarkupCompile.cache
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1Controls\10Calendar\CalendarControlDemo\obj\Debug\CalendarControlDemo_MarkupCompile.lref
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1Controls\10Calendar\CalendarControlDemo\obj\Debug\MainWindow.baml
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1Controls\10Calendar\CalendarControlDemo\obj\Debug\CalendarControlDemo.g.resources
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1Controls\10Calendar\CalendarControlDemo\obj\Debug\CalendarControlDemo.Properties.Resources.resources
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1Controls\10Calendar\CalendarControlDemo\obj\Debug\CalendarControlDemo.csproj.GenerateResource.cache
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1Controls\10Calendar\CalendarControlDemo\obj\Debug\CalendarControlDemo.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1Controls\10Calendar\CalendarControlDemo\obj\Debug\CalendarControlDemo.exe
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1Controls\10Calendar\CalendarControlDemo\obj\Debug\CalendarControlDemo.pdb
