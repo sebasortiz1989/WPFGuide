@@ -1,0 +1,15 @@
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\4Dialogs\1OpenFile\OpenFileDialogDemo\bin\Debug\OpenFileDialogDemo.exe.config
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\4Dialogs\1OpenFile\OpenFileDialogDemo\bin\Debug\OpenFileDialogDemo.exe
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\4Dialogs\1OpenFile\OpenFileDialogDemo\bin\Debug\OpenFileDialogDemo.pdb
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\4Dialogs\1OpenFile\OpenFileDialogDemo\obj\Debug\OpenFileDialogDemo.csprojAssemblyReference.cache
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\4Dialogs\1OpenFile\OpenFileDialogDemo\obj\Debug\MainWindow.g.cs
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\4Dialogs\1OpenFile\OpenFileDialogDemo\obj\Debug\App.g.cs
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\4Dialogs\1OpenFile\OpenFileDialogDemo\obj\Debug\OpenFileDialogDemo_MarkupCompile.cache
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\4Dialogs\1OpenFile\OpenFileDialogDemo\obj\Debug\OpenFileDialogDemo_MarkupCompile.lref
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\4Dialogs\1OpenFile\OpenFileDialogDemo\obj\Debug\MainWindow.baml
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\4Dialogs\1OpenFile\OpenFileDialogDemo\obj\Debug\OpenFileDialogDemo.g.resources
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\4Dialogs\1OpenFile\OpenFileDialogDemo\obj\Debug\OpenFileDialogDemo.Properties.Resources.resources
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\4Dialogs\1OpenFile\OpenFileDialogDemo\obj\Debug\OpenFileDialogDemo.csproj.GenerateResource.cache
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\4Dialogs\1OpenFile\OpenFileDialogDemo\obj\Debug\OpenFileDialogDemo.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\4Dialogs\1OpenFile\OpenFileDialogDemo\obj\Debug\OpenFileDialogDemo.exe
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\4Dialogs\1OpenFile\OpenFileDialogDemo\obj\Debug\OpenFileDialogDemo.pdb
