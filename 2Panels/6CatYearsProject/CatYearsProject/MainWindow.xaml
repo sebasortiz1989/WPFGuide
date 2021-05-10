@@ -5,27 +5,6 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:CatYearsProject"
         mc:Ignorable="d"
+        Name ="myMainWindow"
         Title="MainWindow" Height="450" Width="800">
-    <StackPanel Orientation="Vertical">
-        <StackPanel Orientation="Horizontal">
-            <TextBlock
-                Text="How old is your dog? (years)"
-                FontSize="18"
-            ></TextBlock>
-            <TextBox              
-                x:Name="InputDogAge"
-                Width="120"
-                Margin="5,0,0,0"
-                TextAlignment="Center"
-                FontSize="16"
-                KeyDown="ResultTextBlock_KeyDown"
-            ></TextBox>
-        </StackPanel>
-        <TextBlock
-            Name="ResultTextBlock"
-            Text="Your dog is"
-            FontSize="18"
-        ></TextBlock>
-        <Image Margin="10,15,10,0" Height="350" Source="https://www.foresightsports.com/sites/default/files/images/home/play-anywhere.jpg"></Image>
-    </StackPanel>
 </Window>
