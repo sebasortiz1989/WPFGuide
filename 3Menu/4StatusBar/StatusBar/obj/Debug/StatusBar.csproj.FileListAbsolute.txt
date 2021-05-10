@@ -1,0 +1,15 @@
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\3Menu\4StatusBar\StatusBar\bin\Debug\StatusBar.exe.config
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\3Menu\4StatusBar\StatusBar\bin\Debug\StatusBar.exe
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\3Menu\4StatusBar\StatusBar\bin\Debug\StatusBar.pdb
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\3Menu\4StatusBar\StatusBar\obj\Debug\StatusBar.csprojAssemblyReference.cache
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\3Menu\4StatusBar\StatusBar\obj\Debug\MainWindow.g.cs
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\3Menu\4StatusBar\StatusBar\obj\Debug\App.g.cs
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\3Menu\4StatusBar\StatusBar\obj\Debug\StatusBar_MarkupCompile.cache
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\3Menu\4StatusBar\StatusBar\obj\Debug\StatusBar_MarkupCompile.lref
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\3Menu\4StatusBar\StatusBar\obj\Debug\MainWindow.baml
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\3Menu\4StatusBar\StatusBar\obj\Debug\StatusBar.g.resources
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\3Menu\4StatusBar\StatusBar\obj\Debug\StatusBar.Properties.Resources.resources
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\3Menu\4StatusBar\StatusBar\obj\Debug\StatusBar.csproj.GenerateResource.cache
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\3Menu\4StatusBar\StatusBar\obj\Debug\StatusBar.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\3Menu\4StatusBar\StatusBar\obj\Debug\StatusBar.exe
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\3Menu\4StatusBar\StatusBar\obj\Debug\StatusBar.pdb
