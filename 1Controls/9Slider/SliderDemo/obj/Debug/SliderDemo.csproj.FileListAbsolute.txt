@@ -1,0 +1,15 @@
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1Controls\9Slider\SliderDemo\bin\Debug\SliderDemo.exe.config
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1Controls\9Slider\SliderDemo\bin\Debug\SliderDemo.exe
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1Controls\9Slider\SliderDemo\bin\Debug\SliderDemo.pdb
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1Controls\9Slider\SliderDemo\obj\Debug\SliderDemo.csprojAssemblyReference.cache
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1Controls\9Slider\SliderDemo\obj\Debug\MainWindow.g.cs
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1Controls\9Slider\SliderDemo\obj\Debug\App.g.cs
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1Controls\9Slider\SliderDemo\obj\Debug\SliderDemo_MarkupCompile.cache
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1Controls\9Slider\SliderDemo\obj\Debug\SliderDemo_MarkupCompile.lref
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1Controls\9Slider\SliderDemo\obj\Debug\MainWindow.baml
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1Controls\9Slider\SliderDemo\obj\Debug\SliderDemo.g.resources
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1Controls\9Slider\SliderDemo\obj\Debug\SliderDemo.Properties.Resources.resources
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1Controls\9Slider\SliderDemo\obj\Debug\SliderDemo.csproj.GenerateResource.cache
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1Controls\9Slider\SliderDemo\obj\Debug\SliderDemo.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1Controls\9Slider\SliderDemo\obj\Debug\SliderDemo.exe
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\1Controls\9Slider\SliderDemo\obj\Debug\SliderDemo.pdb
