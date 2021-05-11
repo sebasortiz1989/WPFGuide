@@ -1,0 +1,15 @@
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\5DataBinding\2DB enum ObjectDataProviderComboBox\DataBindingComboBoxEnumDemo\bin\Debug\DataBindingComboBoxEnumDemo.exe.config
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\5DataBinding\2DB enum ObjectDataProviderComboBox\DataBindingComboBoxEnumDemo\bin\Debug\DataBindingComboBoxEnumDemo.exe
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\5DataBinding\2DB enum ObjectDataProviderComboBox\DataBindingComboBoxEnumDemo\bin\Debug\DataBindingComboBoxEnumDemo.pdb
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\5DataBinding\2DB enum ObjectDataProviderComboBox\DataBindingComboBoxEnumDemo\obj\Debug\DataBindingComboBoxEnumDemo.csprojAssemblyReference.cache
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\5DataBinding\2DB enum ObjectDataProviderComboBox\DataBindingComboBoxEnumDemo\obj\Debug\MainWindow.g.cs
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\5DataBinding\2DB enum ObjectDataProviderComboBox\DataBindingComboBoxEnumDemo\obj\Debug\App.g.cs
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\5DataBinding\2DB enum ObjectDataProviderComboBox\DataBindingComboBoxEnumDemo\obj\Debug\DataBindingComboBoxEnumDemo_MarkupCompile.cache
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\5DataBinding\2DB enum ObjectDataProviderComboBox\DataBindingComboBoxEnumDemo\obj\Debug\DataBindingComboBoxEnumDemo_MarkupCompile.lref
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\5DataBinding\2DB enum ObjectDataProviderComboBox\DataBindingComboBoxEnumDemo\obj\Debug\MainWindow.baml
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\5DataBinding\2DB enum ObjectDataProviderComboBox\DataBindingComboBoxEnumDemo\obj\Debug\DataBindingComboBoxEnumDemo.g.resources
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\5DataBinding\2DB enum ObjectDataProviderComboBox\DataBindingComboBoxEnumDemo\obj\Debug\DataBindingComboBoxEnumDemo.Properties.Resources.resources
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\5DataBinding\2DB enum ObjectDataProviderComboBox\DataBindingComboBoxEnumDemo\obj\Debug\DataBindingComboBoxEnumDemo.csproj.GenerateResource.cache
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\5DataBinding\2DB enum ObjectDataProviderComboBox\DataBindingComboBoxEnumDemo\obj\Debug\DataBindingComboBoxEnumDemo.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\5DataBinding\2DB enum ObjectDataProviderComboBox\DataBindingComboBoxEnumDemo\obj\Debug\DataBindingComboBoxEnumDemo.exe
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\5DataBinding\2DB enum ObjectDataProviderComboBox\DataBindingComboBoxEnumDemo\obj\Debug\DataBindingComboBoxEnumDemo.pdb
