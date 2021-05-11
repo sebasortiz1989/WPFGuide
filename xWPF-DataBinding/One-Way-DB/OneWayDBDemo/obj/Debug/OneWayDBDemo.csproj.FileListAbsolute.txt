@@ -1,0 +1,15 @@
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\xWPF-DataBinding\One-Way-DB\OneWayDBDemo\bin\Debug\OneWayDBDemo.exe.config
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\xWPF-DataBinding\One-Way-DB\OneWayDBDemo\bin\Debug\OneWayDBDemo.exe
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\xWPF-DataBinding\One-Way-DB\OneWayDBDemo\bin\Debug\OneWayDBDemo.pdb
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\xWPF-DataBinding\One-Way-DB\OneWayDBDemo\obj\Debug\OneWayDBDemo.csprojAssemblyReference.cache
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\xWPF-DataBinding\One-Way-DB\OneWayDBDemo\obj\Debug\MainWindow.g.cs
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\xWPF-DataBinding\One-Way-DB\OneWayDBDemo\obj\Debug\App.g.cs
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\xWPF-DataBinding\One-Way-DB\OneWayDBDemo\obj\Debug\OneWayDBDemo_MarkupCompile.cache
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\xWPF-DataBinding\One-Way-DB\OneWayDBDemo\obj\Debug\OneWayDBDemo_MarkupCompile.lref
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\xWPF-DataBinding\One-Way-DB\OneWayDBDemo\obj\Debug\MainWindow.baml
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\xWPF-DataBinding\One-Way-DB\OneWayDBDemo\obj\Debug\OneWayDBDemo.g.resources
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\xWPF-DataBinding\One-Way-DB\OneWayDBDemo\obj\Debug\OneWayDBDemo.Properties.Resources.resources
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\xWPF-DataBinding\One-Way-DB\OneWayDBDemo\obj\Debug\OneWayDBDemo.csproj.GenerateResource.cache
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\xWPF-DataBinding\One-Way-DB\OneWayDBDemo\obj\Debug\OneWayDBDemo.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\xWPF-DataBinding\One-Way-DB\OneWayDBDemo\obj\Debug\OneWayDBDemo.exe
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\xWPF-DataBinding\One-Way-DB\OneWayDBDemo\obj\Debug\OneWayDBDemo.pdb
