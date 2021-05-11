@@ -1,0 +1,15 @@
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\xWPF-DataBinding\Two-Way-DB\TwoWayDataBidingDemo\bin\Debug\TwoWayDataBidingDemo.exe.config
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\xWPF-DataBinding\Two-Way-DB\TwoWayDataBidingDemo\bin\Debug\TwoWayDataBidingDemo.exe
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\xWPF-DataBinding\Two-Way-DB\TwoWayDataBidingDemo\bin\Debug\TwoWayDataBidingDemo.pdb
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\xWPF-DataBinding\Two-Way-DB\TwoWayDataBidingDemo\obj\Debug\TwoWayDataBidingDemo.csprojAssemblyReference.cache
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\xWPF-DataBinding\Two-Way-DB\TwoWayDataBidingDemo\obj\Debug\MainWindow.g.cs
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\xWPF-DataBinding\Two-Way-DB\TwoWayDataBidingDemo\obj\Debug\App.g.cs
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\xWPF-DataBinding\Two-Way-DB\TwoWayDataBidingDemo\obj\Debug\TwoWayDataBidingDemo_MarkupCompile.cache
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\xWPF-DataBinding\Two-Way-DB\TwoWayDataBidingDemo\obj\Debug\TwoWayDataBidingDemo_MarkupCompile.lref
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\xWPF-DataBinding\Two-Way-DB\TwoWayDataBidingDemo\obj\Debug\MainWindow.baml
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\xWPF-DataBinding\Two-Way-DB\TwoWayDataBidingDemo\obj\Debug\TwoWayDataBidingDemo.g.resources
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\xWPF-DataBinding\Two-Way-DB\TwoWayDataBidingDemo\obj\Debug\TwoWayDataBidingDemo.Properties.Resources.resources
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\xWPF-DataBinding\Two-Way-DB\TwoWayDataBidingDemo\obj\Debug\TwoWayDataBidingDemo.csproj.GenerateResource.cache
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\xWPF-DataBinding\Two-Way-DB\TwoWayDataBidingDemo\obj\Debug\TwoWayDataBidingDemo.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\xWPF-DataBinding\Two-Way-DB\TwoWayDataBidingDemo\obj\Debug\TwoWayDataBidingDemo.exe
+C:\Users\sebas\Documents\GameDevelopment\WPFCourse\xWPF-DataBinding\Two-Way-DB\TwoWayDataBidingDemo\obj\Debug\TwoWayDataBidingDemo.pdb
