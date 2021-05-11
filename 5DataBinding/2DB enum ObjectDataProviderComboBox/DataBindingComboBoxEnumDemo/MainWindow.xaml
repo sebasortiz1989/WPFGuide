@@ -17,19 +17,18 @@
                 <x:Type TypeName="local:Taste"/>
             </ObjectDataProvider.MethodParameters>
         </ObjectDataProvider>
-    </Window.Resources>
-    <Grid>
-        <StackPanel>
-            <StackPanel.Resources>
-                <ObjectDataProvider 
+        
+        <ObjectDataProvider 
                      x:Key="odpAnimal" 
                     ObjectType="{x:Type sys:Enum}" 
                     MethodName="GetNames">
-                    <ObjectDataProvider.MethodParameters>
-                        <x:Type TypeName="local:Animal"/>
-                    </ObjectDataProvider.MethodParameters>
-                </ObjectDataProvider>
-            </StackPanel.Resources>
+            <ObjectDataProvider.MethodParameters>
+                <x:Type TypeName="local:Animal"/>
+            </ObjectDataProvider.MethodParameters>
+        </ObjectDataProvider>
+    </Window.Resources>
+    <Grid>
+        <StackPanel>
             <ComboBox
                 FontSize="30"
                 ItemsSource="{Binding Source={StaticResource odpTaste}}"
