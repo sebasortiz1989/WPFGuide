@@ -1,0 +1,34 @@
+<UserControl
+    d:DesignHeight="67"
+    d:DesignWidth="393"
+    mc:Ignorable="d"
+    x:Class="DataBindingMvvm.Components.BorderedNumericIntTextBox"
+    x:Name="Root"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:components="clr-namespace:DataBindingMvvm.Components"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <UserControl.Template>
+        <ControlTemplate TargetType="UserControl">
+            <Border
+                Background="{TemplateBinding Background}"
+                BorderBrush="{TemplateBinding BorderBrush}"
+                BorderThickness="{TemplateBinding BorderThickness}"
+                CornerRadius="{Binding CornerRadius, ElementName=Root, FallbackValue=8}">
+                <components:NumericTextBox
+                    Background="Transparent"
+                    BorderThickness="0"
+                    CaretBrush="{TemplateBinding Foreground}"
+                    FontSize="{TemplateBinding FontSize}"
+                    FontWeight="{TemplateBinding FontWeight}"
+                    Foreground="{TemplateBinding Foreground}"
+                    HorizontalContentAlignment="{TemplateBinding HorizontalContentAlignment}"
+                    Text="{Binding Text, ElementName=Root, UpdateSourceTrigger=PropertyChanged, FallbackValue='123'}"
+                    VerticalContentAlignment="{TemplateBinding VerticalContentAlignment}" />
+            </Border>
+        </ControlTemplate>
+    </UserControl.Template>
+
+</UserControl>

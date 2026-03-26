@@ -5,6 +5,7 @@
     mc:Ignorable="d"
     x:Class="DataBindingMvvm.Views.LightBarView"
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:components="clr-namespace:DataBindingMvvm.Components"
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     xmlns:viewmodels="clr-namespace:DataBindingMvvm.Viewmodels"
@@ -160,29 +161,22 @@
                         HorizontalAlignment="Left"
                         Text="Distance Between Leds" />
 
-                    <Border
+                    <components:BorderedNumericIntTextBox
                         Background="Black"
                         BorderBrush="#43B6DB"
                         BorderThickness="4"
                         CornerRadius="8"
+                        FontSize="32"
+                        FontWeight="600"
+                        Foreground="White"
                         Grid.Column="0"
                         Grid.Row="1"
                         Height="67"
                         HorizontalAlignment="Left"
-                        Width="393">
-                        <TextBox
-                            Background="Transparent"
-                            BorderThickness="0"
-                            CaretBrush="White"
-                            FontSize="32"
-                            FontWeight="600"
-                            Foreground="White"
-                            HorizontalContentAlignment="Center"
-                            PreviewTextInput="NumericTextBox_PreviewTextInput"
-                            Text="{Binding DistanceBetweenPointsLightBar, UpdateSourceTrigger=PropertyChanged}"
-                            VerticalContentAlignment="Center"
-                            x:Name="NumericTextBox1" />
-                    </Border>
+                        HorizontalContentAlignment="Center"
+                        Text="{Binding DistanceBetweenPointsLightBar, UpdateSourceTrigger=PropertyChanged}"
+                        VerticalContentAlignment="Center"
+                        Width="393" />
 
                     <Border
                         Grid.Column="0"
@@ -210,6 +204,22 @@
                         HorizontalAlignment="Right"
                         Text="Alignment Distance" />
 
+                    <components:BorderedNumericIntTextBox
+                        Background="Black"
+                        BorderBrush="#43B6DB"
+                        BorderThickness="4"
+                        CornerRadius="8"
+                        FontSize="32"
+                        FontWeight="600"
+                        Foreground="White"
+                        Grid.Column="1"
+                        Grid.Row="1"
+                        Height="67"
+                        HorizontalAlignment="Right"
+                        HorizontalContentAlignment="Center"
+                        Text="{Binding DistanceAlignmentLightBar, UpdateSourceTrigger=PropertyChanged}"
+                        VerticalContentAlignment="Center"
+                        Width="393" />
                 </Grid>
             </StackPanel>
 
