@@ -123,9 +123,6 @@
                                 <Setter Property="TextElement.Foreground" TargetName="ButtonContent" Value="#A7B0B3" />
                             </Trigger>
                         </ControlTemplate.Triggers>
-
-
-
                     </ControlTemplate>
                 </Button.Template>
             </Button>

@@ -2,7 +2,7 @@
 
     <PropertyGroup>
         <OutputType>WinExe</OutputType>
-        <TargetFramework>net8.0-windows</TargetFramework>
+        <TargetFramework>net10.0-windows</TargetFramework>
         <Nullable>enable</Nullable>
         <ImplicitUsings>enable</ImplicitUsings>
         <UseWPF>true</UseWPF>
@@ -12,7 +12,11 @@
     <ItemGroup>
       <Resource Include="images\Homer_Simpson1.png" />
       <Resource Include="images\Homer_Simpson_2006.png" />
-      <Resource Include="images\BarraDeLuz2.png" />
+      <Resource Include="images\LightBar.png" />
+      <None Remove="images\Unaligned.png" />
+      <Resource Include="images\Unaligned.png" />
+      <None Remove="images\Aligned.png" />
+      <Resource Include="images\Aligned.png" />
     </ItemGroup>
 
     <ItemGroup>

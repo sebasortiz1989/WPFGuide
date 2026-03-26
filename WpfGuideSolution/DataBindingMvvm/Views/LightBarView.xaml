@@ -88,7 +88,7 @@
             <StackPanel Grid.Row="1">
                 <Image
                     Margin="0,54,0,0"
-                    Source="pack://application:,,,/images/BarraDeLuz2.png"
+                    Source="pack://application:,,,/images/LightBar.png"
                     Width="717" />
 
                 <Grid HorizontalAlignment="Center" Width="310">
@@ -221,6 +221,48 @@
                         VerticalContentAlignment="Center"
                         Width="393" />
                 </Grid>
+            </StackPanel>
+
+            <StackPanel
+                Grid.Row="1"
+                HorizontalAlignment="Left"
+                Margin="48,158,0,0">
+                <TextBlock
+                    FontSize="22"
+                    FontWeight="600"
+                    Foreground="#5DE4FF"
+                    HorizontalAlignment="Center"
+                    Margin="16,0,0,16"
+                    Text="Bar Sensitivity"
+                    TextAlignment="Center" />
+                <StackPanel Margin="0,0,0,16" Orientation="Horizontal">
+                    <Image
+                        Height="16"
+                        Margin="0,0,16,0"
+                        Source="pack://application:,,,/images/Aligned.png"
+                        Width="78" />
+                    <TextBlock
+                        FontSize="22"
+                        FontWeight="600"
+                        Foreground="White"
+                        HorizontalAlignment="Center"
+                        Text="Aligned"
+                        TextAlignment="Center" />
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <Image
+                        Height="16"
+                        Margin="0,0,16,0"
+                        Source="pack://application:,,,/images/Unaligned.png"
+                        Width="78" />
+                    <TextBlock
+                        FontSize="22"
+                        FontWeight="600"
+                        Foreground="White"
+                        HorizontalAlignment="Center"
+                        Text="Unaligned"
+                        TextAlignment="Center" />
+                </StackPanel>
             </StackPanel>
 
             <components:BorderedButton

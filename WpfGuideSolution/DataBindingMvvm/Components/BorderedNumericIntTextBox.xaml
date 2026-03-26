@@ -13,20 +13,20 @@
     <UserControl.Template>
         <ControlTemplate TargetType="UserControl">
             <Border
-                Background="{TemplateBinding Background}"
-                BorderBrush="{TemplateBinding BorderBrush}"
-                BorderThickness="{TemplateBinding BorderThickness}"
+                Background="{Binding Background, ElementName=Root, FallbackValue=Black}"
+                BorderBrush="{Binding BorderBrush, ElementName=Root, FallbackValue=#43B6DB}"
+                BorderThickness="{Binding BorderThickness, ElementName=Root, FallbackValue=4}"
                 CornerRadius="{Binding CornerRadius, ElementName=Root, FallbackValue=8}">
                 <components:NumericTextBox
                     Background="Transparent"
                     BorderThickness="0"
                     CaretBrush="{TemplateBinding Foreground}"
-                    FontSize="{TemplateBinding FontSize}"
-                    FontWeight="{TemplateBinding FontWeight}"
-                    Foreground="{TemplateBinding Foreground}"
-                    HorizontalContentAlignment="{TemplateBinding HorizontalContentAlignment}"
-                    Text="{Binding Text, ElementName=Root, UpdateSourceTrigger=PropertyChanged, FallbackValue='123'}"
-                    VerticalContentAlignment="{TemplateBinding VerticalContentAlignment}" />
+                    FontSize="{Binding FontSize, ElementName=Root, FallbackValue=32}"
+                    FontWeight="{Binding FontWeight, ElementName=Root, FallbackValue=600}"
+                    Foreground="{Binding Foreground, ElementName=Root, FallbackValue=White}"
+                    HorizontalContentAlignment="{Binding HorizontalContentAlignment, ElementName=Root, FallbackValue=Center}"
+                    Text="{Binding Text, ElementName=Root, UpdateSourceTrigger=PropertyChanged, FallbackValue=123}"
+                    VerticalContentAlignment="{Binding VerticalContentAlignment, ElementName=Root, FallbackValue=Center}" />
             </Border>
         </ControlTemplate>
     </UserControl.Template>
