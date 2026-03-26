@@ -27,7 +27,7 @@ namespace ContextMenuDemo
 
         private void miItalic_Click(object sender, RoutedEventArgs e)
         {
-            myTB.FontStyle = FontStyles.Italic;
+            myTB.FontStyle = myTB.FontStyle == FontStyles.Italic ? FontStyles.Normal : FontStyles.Italic;
         }
 
         private void miBold_Checked(object sender, RoutedEventArgs e)

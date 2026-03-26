@@ -29,35 +29,40 @@ namespace CatYearsProject
         {
             if (e.Key == Key.Enter)
             {
-                try
-                {
-                    int inputDogAge = Int32.Parse(InputDogAge.Text);
-                    string resultInHumanAge = "";
-
-                    if (inputDogAge >= 0 && inputDogAge <= 1)
-                    {
-                        resultInHumanAge = "0-12";
-                        ResultTextBlock.Text = "Your dog is " + resultInHumanAge + " years old";
-                    }
-                    else if (inputDogAge >= 2 && inputDogAge <= 20)
-                    {
-                        resultInHumanAge = (((inputDogAge - 2) * 6) + 14).ToString();
-                        ResultTextBlock.Text = "Your dog is " + resultInHumanAge + " years old";
-                    }
-                    else
-                        ResultTextBlock.Text = "You entered a value that is not between 0-20 " +
-                                               "Your dog is super old or not yet born";
-                }
-                catch(Exception myException)
-                {
-                    MessageBox.Show("Not a valid number, please enter a numeric value");
-                }
+                UpdateResultText();
             }
         }
 
-        private void Button_MouseDown(object sender, MouseButtonEventArgs e)
+        private void UpdateResultText()
         {
+            try
+            {
+                int inputDogAge = Int32.Parse(InputDogAge.Text);
+                string resultInHumanAge = "";
 
+                if (inputDogAge >= 0 && inputDogAge <= 1)
+                {
+                    resultInHumanAge = "0-12";
+                    ResultTextBlock.Text = "Your dog is " + resultInHumanAge + " years old";
+                }
+                else if (inputDogAge >= 2 && inputDogAge <= 20)
+                {
+                    resultInHumanAge = (((inputDogAge - 2) * 6) + 14).ToString();
+                    ResultTextBlock.Text = "Your dog is " + resultInHumanAge + " years old";
+                }
+                else
+                    ResultTextBlock.Text = "You entered a value that is not between 0-20 " +
+                                           "Your dog is super old or not yet born";
+            }
+            catch(Exception myException)
+            {
+                MessageBox.Show("Not a valid number, please enter a numeric value");
+            }
+        }
+
+        private void ButtonBase_OnClick(object sender, RoutedEventArgs e)
+        {
+            UpdateResultText();
         }
     }
 }

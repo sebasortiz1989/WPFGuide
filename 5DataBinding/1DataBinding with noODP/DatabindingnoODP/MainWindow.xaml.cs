@@ -21,18 +21,10 @@ namespace DatabindingnoODP
     /// </summary>
     public partial class MainWindow : Window
     {
-        public ObservableCollection<int> availableNumbers { get; set; }
+        public ObservableCollection<int> AvailableNumbers { get; } = new ObservableCollection<int> { 1, 2, 3, 4, 5 };
 
         public MainWindow()
         {
-            
-            availableNumbers = new ObservableCollection<int>();
-            int counter = 0;
-            for (int i = 0; i < 10; i++)
-            {
-                availableNumbers.Add(counter++);
-            }
-
             //this.DataContext = this; //The data context of the mainwindow should be the same windows itself.
             //This is so we can use availableNumbers inside of our XAML
             //Another way is by saying DataContext="{Binding RelativeSource={RelativeSource Self}}" in the XAML
@@ -41,12 +33,14 @@ namespace DatabindingnoODP
 
         private void AddNumber(object sender, RoutedEventArgs e)
         {
-            availableNumbers.Add(1);
+            var random = new Random();
+            AvailableNumbers.Add(random.Next(0, 10));
         }
 
         private void DeleteNumber(object sender, RoutedEventArgs e)
         {
-            availableNumbers.RemoveAt(0);
+            if (AvailableNumbers.Count > 0)
+                AvailableNumbers.RemoveAt(0);
         }
     }
 }

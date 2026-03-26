@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DatabindingListToClass
 {
-    class Car
+    public class Car
     {
         public string Owner { get; set; }
         public CarType Type { get; set; }

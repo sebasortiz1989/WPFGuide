@@ -32,7 +32,9 @@ namespace StatusBar
                 loadingText.Content = "Done!";
             }
             else
+            {
                 myPB.Value += 10;
+            }
         }
     }
 }

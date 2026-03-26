@@ -22,6 +22,8 @@ namespace OpenFileDialogDemo
     /// </summary>
     public partial class MainWindow : Window
     {
+        private OpenFileDialog? openFileDialog;
+
         public MainWindow()
         {
             InitializeComponent();
@@ -29,13 +31,14 @@ namespace OpenFileDialogDemo
 
         private void OpenFileButton_Click(object sender, RoutedEventArgs e)
         {
-            OpenFileDialog openFileDialog = new OpenFileDialog();
+            openFileDialog = new OpenFileDialog
+            {
+                //openFileDialog.InitialDirectory = @"C:\";
+                //openFileDialog.InitialDirectory = System.IO.Path.GetFullPath(Environment.CurrentDirectory + @"\..\..\..");
+                InitialDirectory = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments),
+                Filter = "Text files (*.txt)|*.txt|All files(*.*)|*.*"
+            };
 
-            //openFileDialog.InitialDirectory = @"C:\";
-            //openFileDialog.InitialDirectory = System.IO.Path.GetFullPath(Environment.CurrentDirectory + @"\..\..\..");
-            openFileDialog.InitialDirectory = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments);
-
-            openFileDialog.Filter = "Text files (*.txt)|*.txt|All files(*.*)|*.*";
             if (openFileDialog.ShowDialog() == true)
             {
                 myTextBox.Text = File.ReadAllText(openFileDialog.FileName);
@@ -44,12 +47,13 @@ namespace OpenFileDialogDemo
 
         private void SaveFileButton_Click(object sender, RoutedEventArgs e)
         {
-            SaveFileDialog saveFileDialog = new SaveFileDialog();
-            saveFileDialog.Filter = "Text files (*.txt)|*.txt|All files(*.*)|*.*";
-            if (saveFileDialog.ShowDialog() == true)
-            {
-                File.WriteAllText(saveFileDialog.FileName, myTextBox.Text);
-            }
+            if (openFileDialog == null)
+                return;
+
+            File.WriteAllText(openFileDialog.FileName, myTextBox.Text);
+            openFileDialog = null;
+            myTextBox.Text = string.Empty;
+            MessageBox.Show("File saved successfully!", "Success", MessageBoxButton.OK, MessageBoxImage.Information);
         }
     }
 }
