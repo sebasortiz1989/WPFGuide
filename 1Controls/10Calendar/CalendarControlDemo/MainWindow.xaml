@@ -1,24 +1,23 @@
-﻿<Window x:Class="CalendarControlDemo.MainWindow"
-        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
-        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
-        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        xmlns:local="clr-namespace:CalendarControlDemo"
-        mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="350">
+﻿<Window
+    Height="450"
+    Title="MainWindow"
+    Width="350"
+    mc:Ignorable="d"
+    x:Class="CalendarControlDemo.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:local="clr-namespace:CalendarControlDemo"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
     <StackPanel>
         <Viewbox Stretch="Uniform">
-            <Calendar 
-                x:Name="myCalendar" 
-                SelectedDate="01.01.2022" 
-                SelectedDatesChanged="myCalendar_SelectedDatesChanged"
+            <Calendar
+                DisplayDateEnd="2026-12-31"
+                DisplayDateStart="2026-01-01"
                 DisplayMode="Month"
-                >
-                <Calendar.BlackoutDates>
-                    <CalendarDateRange Start="03.05.2021" End="03.09.2021"></CalendarDateRange>
-                </Calendar.BlackoutDates>
-            </Calendar>
+                SelectedDatesChanged="myCalendar_SelectedDatesChanged"
+                x:Name="myCalendar" />
         </Viewbox>
-        <TextBlock x:Name="myTextBlock"></TextBlock>
+        <TextBlock x:Name="myTextBlock" />
     </StackPanel>
 </Window>

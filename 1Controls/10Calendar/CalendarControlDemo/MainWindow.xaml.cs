@@ -24,6 +24,7 @@ namespace CalendarControlDemo
         {
             InitializeComponent();
             myTextBlock.Text = myCalendar.SelectedDate.ToString();
+            myCalendar.SelectedDate = DateTime.Today;
         }
 
         private void myCalendar_SelectedDatesChanged(object sender, SelectionChangedEventArgs e)

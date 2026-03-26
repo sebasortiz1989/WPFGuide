@@ -30,7 +30,7 @@
                     Foreground="Gray"
                     IsHitTestVisible="False"
                     Margin="6,0,0,0"
-                    Text="Write a number"
+                    Text="Write something..."
                     VerticalAlignment="Center">
                     <TextBlock.Style>
                         <Style TargetType="TextBlock">
