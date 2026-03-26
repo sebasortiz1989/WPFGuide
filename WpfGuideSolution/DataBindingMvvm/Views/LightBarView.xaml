@@ -28,7 +28,7 @@
             Width="1280">
             <Grid.RowDefinitions>
                 <RowDefinition Height="64" />
-                <RowDefinition Height="1136" />
+                <RowDefinition Height="736" />
             </Grid.RowDefinitions>
 
             <!--  Header  -->
@@ -222,6 +222,55 @@
                         Width="393" />
                 </Grid>
             </StackPanel>
+
+            <components:BorderedButton
+                Background="Black"
+                BorderBrush="#43B6DB"
+                BorderThickness="4"
+                CornerRadius="35"
+                FontSize="32"
+                FontWeight="600"
+                Foreground="#43B6DB"
+                Grid.Row="1"
+                Height="67"
+                HorizontalAlignment="Left"
+                HorizontalContentAlignment="Center"
+                HoverBackground="#4D43B6DB"
+                HoverBorderBrush="#43B6DB"
+                HoverForeground="#43B6DB"
+                Margin="40"
+                PressedBackground="#43B6DB"
+                PressedBorderBrush="#43B6DB"
+                PressedForeground="Black"
+                Text="Back"
+                VerticalAlignment="Bottom"
+                VerticalContentAlignment="Center"
+                Width="200" />
+
+            <components:BorderedButton
+                Background="Black"
+                BorderBrush="#43B6DB"
+                BorderThickness="4"
+                CornerRadius="35"
+                FontSize="32"
+                FontWeight="600"
+                Foreground="#43B6DB"
+                Grid.Row="1"
+                Height="67"
+                HorizontalAlignment="Right"
+                HorizontalContentAlignment="Center"
+                HoverBackground="#4D43B6DB"
+                HoverBorderBrush="#43B6DB"
+                HoverForeground="#43B6DB"
+                IsEnabled="False"
+                Margin="40"
+                PressedBackground="#43B6DB"
+                PressedBorderBrush="#43B6DB"
+                PressedForeground="Black"
+                Text="Save"
+                VerticalAlignment="Bottom"
+                VerticalContentAlignment="Center"
+                Width="200" />
 
         </Grid>
     </Viewbox>
