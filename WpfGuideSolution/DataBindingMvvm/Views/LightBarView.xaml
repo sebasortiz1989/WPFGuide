@@ -1,0 +1,124 @@
+<UserControl
+    d:DataContext="{d:DesignInstance Type=viewmodels:LightBarViewmodel}"
+    d:DesignHeight="800"
+    d:DesignWidth="1280"
+    mc:Ignorable="d"
+    x:Class="DataBindingMvvm.Views.LightBarView"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:viewmodels="clr-namespace:DataBindingMvvm.Viewmodels"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <UserControl.Resources>
+        <StreamGeometry x:Key="logoVerion">
+            M4.63549 2.12112H31.3397C31.8934 2.12142 32.4393 2.25242 32.933 2.50349C33.4268 2.75456 33.8544 3.11861 34.1813 3.56613C30.2337 3.83794 26.5234 5.55269 23.7559 8.38434C20.9884 11.216 19.3566 14.9671 19.1707 18.9247C18.9848 22.8822 20.2577 26.7701 22.7476 29.8494C25.2375 32.9286 28.7706 34.9844 32.6753 35.626C32.2502 35.7934 31.7964 35.8757 31.3397 35.8683H4.63549C4.15132 35.8738 3.67153 35.7759 3.22812 35.5811C7.07772 34.8929 10.5467 32.8285 12.9901 29.7715C15.4335 26.7146 16.685 22.8732 16.5118 18.9617C16.3387 15.0502 14.7527 11.3348 12.0488 8.50623C9.3449 5.6777 5.70709 3.92858 1.81179 3.5841C2.12978 3.13037 2.55264 2.76037 3.04431 2.50563C3.53599 2.25089 4.0819 2.11897 4.63549 2.12112ZM1.41736 33.7681C3.99568 33.5657 6.40047 32.3886 8.14366 30.4758C9.88686 28.5629 10.8379 26.0576 10.8036 23.4684C10.7694 20.8792 9.75254 18.4 7.9594 16.5341C6.16626 14.6681 3.7312 13.5551 1.14844 13.4211V32.4667C1.15189 32.9256 1.24318 33.3795 1.41736 33.804V33.7681ZM34.8536 13.457C32.223 13.5224 29.7199 14.6048 27.8688 16.4773C26.0177 18.3499 24.9625 20.8672 24.9242 23.5015C24.886 26.1359 25.8677 28.6829 27.6636 30.6085C29.4596 32.5341 31.9302 33.689 34.5578 33.8309C34.754 33.403 34.8549 32.9375 34.8536 32.4667V13.457Z
+        </StreamGeometry>
+
+        <StreamGeometry x:Key="nameVerion">
+            M248.941 0.828557L248.759 13.2176C247.642 10.4844 245.611 7.90506 242.824 5.53154C238.54 1.88289 231.93 0 223.417 0H222.886C214.217 0 207.699 2.06307 203.37 5.8919C200.75 8.20814 198.885 10.7255 197.819 13.414L197.835 0.919226H180.818L180.781 37.0273H197.79L197.806 24.3689C198.886 27.1733 200.784 29.8005 203.415 32.3333C207.699 35.9819 213.723 38 221.852 38H223.682C232.168 38 238.64 36.1531 242.97 32.3333C245.609 30.2556 247.475 27.8784 248.582 25.3002L248.41 37.0268H262.553L262.956 17.6123L275.323 37.0268H294.519L294.931 0.828557H280.321L280.01 20.9907L267.377 0.828557H248.941ZM223.463 28.0721C213.686 28.0721 213.952 19.3694 213.952 19.3694C213.952 19.3694 213.64 10.3604 223.426 10.3604C233.212 10.3604 232.937 19.009 232.937 19.009C232.937 19.009 233.248 28.018 223.463 28.018V28.0721ZM306.092 7.62219C305.406 7.63395 304.729 7.46882 304.129 7.14323C303.528 6.81764 303.024 6.34293 302.668 5.76634C302.316 5.17649 302.133 4.50426 302.137 3.82042C302.128 3.13594 302.312 2.46235 302.668 1.87447C303.219 1.02146 304.077 0.405161 305.07 0.149459C306.064 -0.106244 307.119 0.0176066 308.023 0.496094C308.619 0.832023 309.117 1.31283 309.469 1.89248C309.821 2.48215 310.005 3.15453 310 3.83843C310.007 4.52261 309.824 5.19559 309.469 5.78437C309.104 6.34688 308.608 6.81615 308.023 7.15373C307.429 7.46706 306.766 7.63399 306.092 7.64023V7.62219ZM302.943 3.83843C302.928 4.2571 303.002 4.67412 303.16 5.06328C303.318 5.45244 303.555 5.80533 303.858 6.0997C304.148 6.39742 304.498 6.63156 304.886 6.78681C305.274 6.94206 305.691 7.01492 306.11 7.0006C306.664 7.00502 307.208 6.8517 307.675 6.55914C308.169 6.30618 308.564 5.90114 308.801 5.40598C309.108 4.92988 309.264 4.37491 309.25 3.8114C309.27 3.23299 309.114 2.66181 308.801 2.17176C308.532 1.68008 308.13 1.27154 307.639 0.991578C307.159 0.732537 306.621 0.596234 306.073 0.59518C305.508 0.590635 304.95 0.727004 304.453 0.991578C303.981 1.27206 303.593 1.66977 303.327 2.14473C303.054 2.64882 302.915 3.21306 302.924 3.78437L302.943 3.83843ZM305.213 4.04564H306.028L307.199 5.95555H307.959L306.723 4.08166C306.963 4.052 307.19 3.95705 307.378 3.80747C307.566 3.65789 307.708 3.45963 307.788 3.23498C307.868 3.01032 307.883 2.76818 307.83 2.53579C307.778 2.3034 307.661 2.08997 307.492 1.9195C307.145 1.69657 306.735 1.5863 306.32 1.60418H304.572V5.99156H305.24L305.213 4.04564ZM305.213 3.52311H306.073C306.334 3.53404 306.593 3.48789 306.833 3.38798C307.062 3.29789 307.153 3.08167 307.153 2.76635C307.153 2.45104 306.833 2.14473 306.165 2.14473H305.249L305.213 3.52311ZM102.815 0.919226H135.508L135.462 10.4508H115.287L115.113 14.0093H132.112V23.3697H115.241L115.113 27.0994H135.462L135.508 37.0273H99.1758V7.84635L83.8473 37.0273H65.3653L48 0.919226H64.6512L74.7848 25.2976L85.6324 0.919226H99.1758H102.815ZM158.07 16.3509C156.594 16.4169 155.115 16.2804 153.676 15.9455L161.045 37.1077H178.31L170.849 20.8915C173.069 20.3838 175.071 19.2019 176.571 17.5131C177.896 15.9341 178.664 13.9737 178.758 11.9275V11.4951L178.713 11.3149V11.0086C178.607 9.68423 178.218 8.3968 177.571 7.23079C176.924 6.06477 176.034 5.04651 174.96 4.24284C172.689 2.22482 168.845 1.17078 163.663 0.990604H137.117L136.934 37.0266H152.697L152.825 9.92755H157.951C158.812 9.92755 162.913 10.2789 162.913 13.0537C162.913 15.5582 159.517 16.3509 158.07 16.3509Z
+        </StreamGeometry>
+    </UserControl.Resources>
+
+    <Viewbox>
+        <Grid
+            Background="Black"
+            Height="800"
+            Width="1280">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="64" />
+                <RowDefinition Height="1136" />
+            </Grid.RowDefinitions>
+
+            <!--  Header  -->
+            <Grid Grid.Row="0">
+                <StackPanel
+                    HorizontalAlignment="Left"
+                    Margin="15,0,0,0"
+                    Orientation="Horizontal">
+                    <Border
+                        Background="White"
+                        BorderBrush="#93989E"
+                        BorderThickness="0.5"
+                        CornerRadius="2"
+                        Height="24"
+                        Width="24">
+                        <Viewbox
+                            HorizontalAlignment="Center"
+                            Margin="0,0,1,1"
+                            VerticalAlignment="Center">
+                            <Path
+                                Data="{DynamicResource logoVerion}"
+                                Fill="#F6A500"
+                                HorizontalAlignment="Center"
+                                VerticalAlignment="Center" />
+                        </Viewbox>
+                    </Border>
+
+                    <Viewbox
+                        Height="24"
+                        HorizontalAlignment="Left"
+                        Margin="-28,0,0,0"
+                        VerticalAlignment="Center">
+                        <Path Data="{DynamicResource nameVerion}" Fill="#FC1D2F" />
+                    </Viewbox>
+
+                </StackPanel>
+                <TextBlock
+                    FontSize="32"
+                    FontWeight="600"
+                    Foreground="#5CC4E6"
+                    HorizontalAlignment="Center"
+                    VerticalAlignment="Center">
+                    Light Bar
+                </TextBlock>
+                <Border BorderThickness="0,0,0,1" Grid.ColumnSpan="3">
+                    <Border.BorderBrush>
+                        <LinearGradientBrush EndPoint="1,0.5" StartPoint="0,0.5">
+                            <GradientStop Color="Transparent" Offset="0" />
+                            <GradientStop Color="#43B6DB" Offset="0.5" />
+                            <GradientStop Color="Transparent" Offset="1" />
+                        </LinearGradientBrush>
+                    </Border.BorderBrush>
+                </Border>
+            </Grid>
+
+            <StackPanel Grid.Row="1">
+                <Image
+                    Margin="0,54,0,0"
+                    Source="pack://application:,,,/images/BarraDeLuz2.png"
+                    Width="717" />
+
+                <Grid HorizontalAlignment="Center" Width="310">
+                    <TextBlock
+                        FontSize="32"
+                        FontWeight="600"
+                        Foreground="#5DE4FF"
+                        HorizontalAlignment="Left"
+                        TextAlignment="Center">
+                        <Run Text="{Binding DistanceBetweenPointsLightBar}" />
+                        <Run Text="cm" />
+                    </TextBlock>
+                    <TextBlock
+                        FontSize="32"
+                        FontWeight="600"
+                        Foreground="#5DE4FF"
+                        HorizontalAlignment="Center"
+                        Text="0"
+                        TextAlignment="Center" />
+                    <TextBlock
+                        FontSize="32"
+                        FontWeight="600"
+                        Foreground="#5DE4FF"
+                        HorizontalAlignment="Right"
+                        TextAlignment="Center">
+                        <Run Text="{Binding DistanceBetweenPointsLightBar}" />
+                        <Run Text="cm" />
+                    </TextBlock>
+                </Grid>
+            </StackPanel>
+
+        </Grid>
+    </Viewbox>
+
+</UserControl>
