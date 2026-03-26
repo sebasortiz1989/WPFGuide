@@ -23,6 +23,7 @@ namespace DatePickerDemo
         public MainWindow()
         {
             InitializeComponent();
+            Picker.SelectedDate = DateTime.Today;
         }
 
         private void DatePicker_SelectedDateChanged(object sender, SelectionChangedEventArgs e)
